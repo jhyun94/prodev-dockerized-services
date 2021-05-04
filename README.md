@@ -1,3 +1,5 @@
+![broken envvars](./terminal.png)
+![broken envvars](./browser.png)
 # Dockerize three apps
 
 In this exercise, you'll Dockerize three applications that work together to make
